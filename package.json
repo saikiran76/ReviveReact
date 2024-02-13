@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This is the app where I have started to revive my React skill",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikiran76/ReviveReact.git"
+  },
+  "keywords": [
+    "React",
+    "Frontend",
+    "Revival"
+  ],
+  "author": "Korada saikiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikiran76/ReviveReact/issues"
+  },
+  "homepage": "https://github.com/saikiran76/ReviveReact#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
